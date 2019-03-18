@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This webpage and associated repository is meant to serve as a community-curated portal to the many valuable people and resources you will work with as a member of the CPHG computational community. Please feel free to submit issues to this site and contribute to the resources listed here. Welcome to CPHG Computing!
+Welcome to the CPHG Computation Group! This webpage and associated repository is meant to serve as a community-curated portal to the many valuable people and resources you will work with as a member of the CPHG computational community. Please feel free to submit issues to this site and contribute to the resources listed here. Welcome to CPHG Computing!
 
 
 ## CPHG
