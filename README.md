@@ -90,8 +90,7 @@ This webpage and associated repository is meant to serve as a community-curated 
 ## CPHG IT Infrastructure
 
 * We may need to put this behind a firewall and require NetBadge login
-  * I haven't learned how to do that yet
-  * Notwithstanding the firewall issue, this may be the most valuable resource in this list
+  * I haven't learned the best way to do that yet
   * Here is my first attempt at putting server information behind a firewall: [a collab site](https://collab.its.virginia.edu/portal/site/a412f617-1d58-4aa2-a58a-1cd7f37b93dc/page/02d2821c-67f4-456f-ada7-023e878d92d5)
 
 ---
