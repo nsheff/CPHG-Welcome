@@ -78,7 +78,7 @@ This webpage and associated repository is meant to serve as a community-curated 
 * Example of a popular [.bash_profile](https://gist.github.com/stephenll/8762279) to give you some ideas
 
 
-## Github
+## GitHub
 
 * GitHub [homepage](https://github.com/)
 
