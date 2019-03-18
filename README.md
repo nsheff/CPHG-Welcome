@@ -11,7 +11,10 @@ This webpage and associated repository is meant to serve as a community-curated 
 * Center [homepage](https://med.virginia.edu/cphg/)
 
 * CPHG UVaCollab [homepage](https://collab.its.virginia.edu/portal)
-  * *Note the CPHG UVaCollab homepage is under development*
+  * *This site does not appear to have been developed yet*
+
+* CPHG Trainees GitHub [site](https://github.com/CPHG-Trainees)
+  * *This site does not appear to have been developed much*
 
 
 ## UVa Computation and Data Resource Exchange (CADRE)
@@ -59,7 +62,7 @@ This webpage and associated repository is meant to serve as a community-curated 
   * ARCS unix [tutorial](https://arcs.virginia.edu/UNIX-tutorials-for-beginners)
 
 * My favorite commands
-  * Chris [Dampier](fav-commands/dampier_commands.md)
+  * Chris [Dampier](fav_commands/dampier_commands.md)
 
 
 ## Text Editors
@@ -76,6 +79,9 @@ This webpage and associated repository is meant to serve as a community-curated 
 * How to [guide][bashrc] for building your own bashrc file
 
 * Example of a popular [.bash_profile](https://gist.github.com/stephenll/8762279) to give you some ideas
+
+* My bash_profile
+  * Chris [Dampier](bash_profiles/dampier_macos_bash_profile.bash)
 
 
 ## GitHub
