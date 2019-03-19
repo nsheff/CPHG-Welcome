@@ -68,10 +68,11 @@ Welcome to the CPHG Computation Group! This webpage and associated repository is
 ## Text Editors
 
 * [Atom](https://atom.io/)
-
 * [Nano](https://www.nano-editor.org/)
-
 * [Emacs](https://www.gnu.org/software/emacs/)
+* [Sublime](https://www.sublimetext.com/)
+* [Vim](https://www.vim.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## Settings (.bashrc and .bash_profile files)
